@@ -33,7 +33,7 @@
   - 📈 Metrics (`.json`)  
   - 📑 Professional PDF report (includes cleaning summary, charts, training results)  
 
-☠ DataForge by Mysterious | Hassan
+☠ DataForge by Mysterious | George
 
 ## 📂 Project Structure
 
@@ -61,32 +61,55 @@ project/
 
 1. **Clone the repository**
 
-   git clone <https://github.com/Hassan-07-code/DataForge.git>
-   cd dataforge
+```
+git clone https://github.com/GeorgeLxL/Data-Forge.git
+cd data-forge
+```
 
 2. **Create virtual environment**
 
-   python -m venv venv
-   venv\Scripts\activate   # Windows
+```
+python -m venv venv
+venv\Scripts\activate   # Windows
+```
 
 3. **Install dependencies**
 
-   pip install -r requirements.txt
+```
+pip install -r requirements.txt
+```
 
 4. **Run the application**
 
-   streamlit run app.py
+```
+streamlit run app.py
+```
 
 ## 📊 Workflow Overview
 
 1. **Data Cleaning**
-   Upload dataset → handle missing values → remove unwanted columns
+
+```
+Upload dataset → 
+handle missing values → 
+remove unwanted columns
+```
 
 2. **Visualization**
-   Select charts → explore data → get automatic benefit insights
+
+```
+Select charts → 
+explore data → 
+get automatic benefit insights
+```
 
 3. **Model Training**
-   Choose target column → suggested model & reasoning → train & evaluate
+
+```
+Choose target column → 
+suggested model & reasoning → 
+train & evaluate
+```
 
 4. **Export Report**
    Download ZIP with:

@@ -83,7 +83,7 @@ class Exporter:
 
         # Footer
         story.append(Spacer(1, 40))
-        story.append(Paragraph("☠ DataForge by Mysterious | Hassan", styles['Normal']))
+        story.append(Paragraph("☠ DataForge by Mysterious | George", styles['Normal']))
 
         # Build PDF
         doc = SimpleDocTemplate(pdf_path, pagesize=A4)
