@@ -37,23 +37,25 @@
 
 ## 📂 Project Structure
 
+```
 project/
 │
 ├── modules/
-│   ├── visualization.py       # Plotly visualizations
-│   ├── model\_training.py      # ML model training logic
-│   ├── report\_export.py       # Export & PDF generation
+│   ├── visualization.py         # Plotly visualizations
+│   ├── model\_training.py       # ML model training logic
+│   ├── report\_export.py        # Export & PDF generation
 │
 ├── ui/
 │   ├── data\_cleaning\_ui.py    # UI for cleaning
-│   ├── visualization\_ui.py    # UI for charts
-│   ├── model\_ui.py            # UI for training
-│   ├── export\_ui.py           # UI for exporting
+│   ├── visualization\_ui.py     # UI for charts
+│   ├── model\_ui.py             # UI for training
+│   ├── export\_ui.py            # UI for exporting
 │
-├── reports/                   # Generated reports & exports
-├── models/                    # Trained models (.pickle)
-├── requirements.txt           # Dependencies
-└── app.py                     # Streamlit entry point
+├── reports/                     # Generated reports & exports
+├── models/                      # Trained models (.pickle)
+├── requirements.txt             # Dependencies
+└── app.py                       # Streamlit entry point
+```
 
 ## ⚙️ Installation
 
