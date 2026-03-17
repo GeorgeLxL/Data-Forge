@@ -105,9 +105,3 @@ project/
 - **Pandas** – Data wrangling
 - **Kaleido** – Chart export
 
-## ❤️ Credits
-
-Developed with dedication by
-**☠ Mysterious | Hassan**
- Muhammad Hassan Imtiaz
- AI Student || Flutter || Analysis Intelligence
